@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 7, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Matteo Wise)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Making a movie IMBD)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/wisematteo/lesson8_ajax.git
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (how to use json and ajax)
+2. (more about DOM)
+3. (How to make a movie imbd)
